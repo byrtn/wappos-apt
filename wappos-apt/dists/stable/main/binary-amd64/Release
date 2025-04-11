@@ -4,4 +4,4 @@ Suite: stable
 Codename: stable
 Architectures: amd64
 Components: main
-Description: Dépôt WappOS privé (branding, thèmes, correctifs, webapps)
+Description: Dépôt APT WappOS sur GitHub Pages
