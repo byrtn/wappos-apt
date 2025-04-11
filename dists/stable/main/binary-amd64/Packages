@@ -2,7 +2,7 @@ Package: wappos-branding-gsettings
 Version: 1.0
 Architecture: all
 Maintainer: Patrick Ritaine
-Filename: /mnt/data/wappos-apt/pool/main/w/wappos-branding-gsettings-final.deb
+Filename: pool/main/w/wappos-branding-gsettings-final.deb
 Size: 7020
 MD5sum: e85da173dea54977b2564338e3c6df1d
 SHA1: 2d04e140be2b0eb6932fc13c35e393cdc501d6e1
@@ -15,7 +15,7 @@ Package: wappos-branding-info
 Version: 1.0
 Architecture: all
 Maintainer: Patrick Ritaine
-Filename: /mnt/data/wappos-apt/pool/main/w/wappos-branding-info.deb
+Filename: pool/main/w/wappos-branding-info.deb
 Size: 4012
 MD5sum: 38b67952058f4fde6cf4691f4ff04a84
 SHA1: 10933e46bd3a7242bb9fef628c7d2c728a881d91
